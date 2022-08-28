@@ -1,5 +1,5 @@
 # 프로젝트 자료 
-https://www.notion.so/Travel-Planner-5dc65077deb74d06b1fb1169ae76b7bf
+https://showy-cornflower-473.notion.site/Travel-Planner-5dc65077deb74d06b1fb1169ae76b7bf
 
 # 계기
 
