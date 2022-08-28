@@ -30,7 +30,8 @@ https://showy-cornflower-473.notion.site/Travel-Planner-5dc65077deb74d06b1fb1169
 
 # **대시보드**
 
-![캡처](https://user-images.githubusercontent.com/65999018/187058341-b9884d25-4575-48ad-b524-5bae016b1c43.PNG)
+![Untitled (1)](https://user-images.githubusercontent.com/65999018/187058410-3eaf492b-2167-42ac-933b-6ead5e744cd0.png)
+
 
 </br>
 
