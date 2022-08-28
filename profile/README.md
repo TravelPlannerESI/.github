@@ -16,22 +16,23 @@ https://showy-cornflower-473.notion.site/Travel-Planner-5dc65077deb74d06b1fb1169
 
 
 
-- **알람기능**
+- **알람기능** </br>
 다른 회원이 초대 할 경우 실시간으로 알람추가
 
-- **현재 계획중인 여행목록**
+- **현재 계획중인 여행목록** </br>
 오른쪽 컨텐츠 목록에 내가 참여중인 계획이거나 내가 작성한 여행계획의 목록을 표출
 
-- **현재 방문 가능한 나라 및 정보**
+- **현재 방문 가능한 나라 및 정보** </br>
 지도에 표시된 나라들중 현재 여행이 가능한지 , 가능하다면 어떤 정보가 필요한지 표출
 
-- **로그인**
+- **로그인** </br>
 카카오 , 구글 , 네이버를 통한 로그인 연동가능
 
 # **대시보드**
 
-![Untitled 1](https://user-images.githubusercontent.com/65999018/186151708-2d92884c-cfa2-4a9f-9fc3-6cf925793f49.png)
+![캡처](https://user-images.githubusercontent.com/65999018/187058341-b9884d25-4575-48ad-b524-5bae016b1c43.PNG)
 
+</br>
 
 **차트기능 및 환율정보**
 
@@ -40,11 +41,12 @@ https://showy-cornflower-473.notion.site/Travel-Planner-5dc65077deb74d06b1fb1169
 # 조회
 
 ![Untitled 2](https://user-images.githubusercontent.com/65999018/186151808-3cf63578-cdf0-4bea-9a34-9addd662b41e.png)
-
+</br>
 
  - **세부일정 등록 ,수정 ,확인 가능한 페이지**
 
 등록한 일정은 지도에서 확인 가능( 핀으로 확인 가능 )
+</br>
 
 # 일정관리
 
@@ -56,7 +58,7 @@ https://showy-cornflower-473.notion.site/Travel-Planner-5dc65077deb74d06b1fb1169
 
 일정 추가 시 작성했던 옵션들을 수정 가능한 페이지
 멤버를 추가하는 기능
-
+</br>
 # 여행 멤버 관리 페이지
 
 ![Untitled 4](https://user-images.githubusercontent.com/65999018/186152226-84d39843-4d06-4404-822f-5be211429ad9.png)
